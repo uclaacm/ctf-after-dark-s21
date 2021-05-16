@@ -1,0 +1,10 @@
+slug = "bloods-n-cribs"
+title = "Bl0ods n' Cr1bs"
+author = "Josh"
+value = 35
+description = """Yeee brr brrr skrrt da boiz in tha hood skrrt sheeesh yuh brr lil bean yuh yee yuh skrraaa go [hard](https://colab.research.google.com/drive/15JnKQU2z2xF8q7w0999VHqNfVGllHe3e?usp=sharing)"""
+tags = ["modern"]
+files = []
+flag = "flag{hackity_smackity_whackity_tackity_trackity_stackity_beancity}"
+enabled = true
+
