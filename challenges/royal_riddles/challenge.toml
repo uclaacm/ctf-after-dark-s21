@@ -6,7 +6,7 @@ description = """numbers and words are one and the same.
 so can you honestly tell me
 alex ku kp b reqi ? 
 
-Please type your flag as flag{decoded_message} with everything lowercase and words separated by underscores."""
+ Please type your flag as flag{decoded_message} with everything lowercase and words separated by underscores."""
 
 tags = ["classical"]
 files = []
