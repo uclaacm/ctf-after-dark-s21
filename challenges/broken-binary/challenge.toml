@@ -1,0 +1,9 @@
+slug = "broken-binary"
+title = "Broken Binary"
+author = "Luke"
+value = 30
+description = """Can you find out what [this](util) is for? I'm having trouble running it for some reason."""
+tags = ["reverse"]
+files = ["util"]
+flag = "flag{4nsW3r_t0_l1f3_th3_uN1v3ReE_4nD_3VeRyth1ng}"
+enabled = true
