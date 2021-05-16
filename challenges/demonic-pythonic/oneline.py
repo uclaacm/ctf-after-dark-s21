@@ -1,0 +1,3 @@
+user = "???";secretnum = ???;assert(0 <= secretnum and secretnum < 95);onion = "".join([(lambda dab: chr(((95 - (ord(dab[0]) - 0x20) + dab[1] + secretnum) % 95 + 0x20)))([owo, uwu]) for owo, uwu in zip(user, range(len(user)))][::-1]);print(onion)
+'''I have no idea what this horrible atrocity does, but it printed this out when I ran it?? Onions make me cry bc of their layers ;-;
+3jH7gFcpt/_02^jZYcTV'''

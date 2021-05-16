@@ -1,0 +1,9 @@
+slug = "demonic-pythonic"
+title = "Demonic Pythonic"
+author = "Jerry"
+value = 40
+description = """It's just [one line](oneline.py) of Python code, the language that's basically pseudocode; it can't be thaaaat bad right?"""
+tags = ["classical"]
+files = ["oneline.py"]
+flag = "flag{plz_m@ke_c0de_r3adab1e}"
+enabled = true
