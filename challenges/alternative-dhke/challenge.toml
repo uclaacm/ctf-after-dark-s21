@@ -1,0 +1,10 @@
+slug = "alternative-dhke"
+title = "Alternative DHKE" 
+author = "Stephen"
+value = 20
+description = """Alice and Bob weren't paying a lot of attention during the workshops, so they think that diffie-hellman is based on multiplication rather than exponentiation. Their key exchange is [here](exchange.txt). Show them why this won't work by finding their shared key. Wrap the key with flag{} to submit here"""
+
+tags = ["modern"]
+files = ["exchange.txt"]
+flag = "flag{890168530}"
+enabled = true
