@@ -1,0 +1,16 @@
+slug = "gamer2"
+title = "Gamer 2"
+author = "Henry"
+value = 90
+description = """Try to get the flag from ACM Studio's target practice game! During CTF After Dark, 
+we will ask you to show off your aimbot and its source code for a large amount of points in the competition!
+Download the [game](http://links.uclaacm.com/cyberXstudio-game) and
+[starter code](http://links.uclaacm.com/cyberxStudio-starter) to get started!
+
+After you have retreived the flag from the game, message @Peter or @Ted on the ACM Cyber discord
+and show them your code to obtain the second flag!
+"""
+tags = ["game"]
+files = []
+flag = "flag{AimbotLord664}"
+enabled = true
