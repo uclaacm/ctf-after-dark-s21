@@ -1,0 +1,9 @@
+slug = "more-than-meets-the-eye"
+title = "More Than Meets the Eye"
+author = "Luke"
+value = 25
+description = """I have a feeling there's more to [this](secret) than there seems. The binary seems a little big for what it does."""
+tags = ["reverse"]
+files = ["secret"]
+flag = "flag{y0Ur3_a_h4rRy_w1z4rD}"
+enabled = true
