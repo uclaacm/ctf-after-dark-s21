@@ -1,0 +1,11 @@
+slug = "cyber-stardom"
+title = "Cyber Stardom"
+author = "Stephen"
+value = 100
+description = """Here it is! This is your chance to win 100 points in Hacker Hero and achieve Cyber Stardom! All you have to do is give the correct input to [this function](https://www.desmos.com/calculator/myrctwundp) on... desmos? No worries, I'm sure you can still figure it out. Good luck!
+
+inspired by sdctf chall 'desmos pro' by @k3v1n#7999"""
+tags = ["reverse"]
+files = []
+flag = "flag{710792997}"
+enabled = true
