@@ -7,4 +7,3 @@ tags = ["modern"]
 files = []
 flag = "flag{hackity_smackity_whackity_tackity_trackity_stackity_beancity}"
 enabled = true
-

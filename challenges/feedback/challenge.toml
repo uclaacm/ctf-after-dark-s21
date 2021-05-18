@@ -1,0 +1,9 @@
+slug = "feedback"
+title = "Feedback"
+author = "defund"
+value = 5
+description = """Please tell us how CTF After Dark went! Form [here](https://forms.gle/NBghyMqTkMUeLYxY6)."""
+tags = ["feedback"]
+files = []
+flag = "flag{see_you_on_campus!}"
+enabled = true
